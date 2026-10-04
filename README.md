@@ -6,7 +6,7 @@ Offline music firmware for the **CS43131 FakePod Nano**. Alpha: tested on one ph
 
 MP3, FLAC and WAV playback from microSD, album art, touchscreen browsing, physical volume buttons, local playlists, optional Plex playlist sync and lyrics when supplied. Audio is decoded to 16-bit stereo at 48 kHz; this is not native-resolution hi-res output. Timed lyrics still need physical visual verification.
 
-Firmware is free for noncommercial use under PolyForm Noncommercial 1.0.0. Commercial licensing: [Open Horizon Labs](https://hiphi.audio/bespoke.html). Third-party software retains its own terms; see THIRD_PARTY.md. Firmware source is maintained privately. Releases contain locally built firmware, checksums and provenance; binaries are never committed to Git history.
+Firmware is free for noncommercial use under PolyForm Noncommercial 1.0.0. Commercial licensing: [Open Horizon Labs](https://hiphi.audio/bespoke.html). Third-party software retains its own terms; see THIRD_PARTY.md. [Firmware source is public](https://github.com/open-horizon-labs/PearlPod), with sanitized development history. Releases contain locally built firmware, checksums and provenance; binaries are never committed to Git history.
 
 ## Music card
 
