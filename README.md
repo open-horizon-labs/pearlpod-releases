@@ -1,10 +1,20 @@
 # PearlPod downloads and themes
 
-Offline music firmware for the **CS43131 FakePod Nano**, part of [HiPhi.audio](https://hiphi.audio/pearlpod.html). Play MP3, FLAC and WAV from microSD, browse album art and playlists, and read lyrics when supplied.
+**PearlPod is a customizable pocket music player** for the CS43131 FakePod Nano, part of [HiPhi.audio](https://hiphi.audio/pearlpod.html). Put songs on microSD, plug in wired headphones, browse albums and playlists on the touchscreen, and follow lyrics while listening. Theme packs give it your name, colors, pictures and greetings.
 
 **Alpha: tested on one CS43131 unit.** The PCM5102 variant is unverified. Confirm the DAC variant with the seller before ordering.
 
 [Flash in your browser](https://hiphi.audio/flash/pearlpod/) · [Download firmware and release notes](https://github.com/open-horizon-labs/pearlpod-releases/releases) · [Order hardware](https://www.tindie.com/products/johnson/fakepod-nano-cnc-aluminum-amoled-audio-player/)
+
+## The player in use
+
+These are actual firmware UI renders with Pearl’s personal theme, sample music and sample lyrics. Her pack is an example of what you can make; starter downloads below supply palettes and greetings with neutral art.
+
+| Personal welcome | Playback | Lyric mode |
+| --- | --- | --- |
+| <img src="https://hiphi.audio/assets/images/pearlpod/personal-welcome.png" width="230" alt="Personalized welcome screen for Pearl"> | <img src="https://hiphi.audio/assets/images/pearlpod/personal-playing.png" width="230" alt="Themed playback with large controls"> | <img src="https://hiphi.audio/assets/images/pearlpod/personal-lyrics.png" width="230" alt="Highlighted lyrics and Follow control"> |
+
+Play MP3, FLAC and WAV; browse albums, artists, folders and local playlists; display embedded or adjacent album art; and use physical volume buttons. Timed lyrics follow the song, with manual scrolling and a Follow button. Optional Plex sync brings playlists, artwork and available lyrics from a home runner, with incremental transfers, progress, ETA and interruption recovery. Ordinary starts load a saved library index. WiFi stays off at startup.
 
 ## First song
 
